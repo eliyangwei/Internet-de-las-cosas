@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #DEF9C4;
+}
+.Titulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Titulo p{
+  font-size: 50px;
+  font-weight:bold ;
+  color: #80AF81;
+  text-align: center;
+}
+.img1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img1 img{
+  height: 250px;
+}
+.img1 ul{
+  font-size: 20px;
+  color: #468585;
+  font-weight: bold;
+}
+.link{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link a{
+  font-size: 30px;
+  font-weight: bold;
+  color: #508D4E;
+}
+.img1 img{
+  height: 250px;
+  margin: 20px;
+}
+.img1 p{
+  font-size: 15.89px;
+  color: #80AF81;
+  margin:  15px;
+  line-height: 2.5;
+}
